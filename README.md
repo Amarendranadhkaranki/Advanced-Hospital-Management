@@ -1,4 +1,5 @@
 
+
 # Hospital Management
 
 ## Functions
@@ -22,8 +23,6 @@
 - Can view their booked appointment status (pending/confirmed by admin).
 - Can book appointments.(approval required by admin)
 - Can view/download Invoice pdf (Only when that patient is discharged by admin)
-
-
 
 
 
